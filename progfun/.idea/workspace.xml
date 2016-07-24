@@ -38,7 +38,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Rational.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Rational.scala" pinned="false" current-in-tab="false">
         <entry file="file:///media/DATOS/Oxfist/coding/IdeaProjects/progfun1/progfun/src/main/scala-2.11/week2/Rational.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="347">
@@ -48,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rationals.sc" pinned="false" current-in-tab="false">
+      <file leaf-file-name="rationals.sc" pinned="false" current-in-tab="true">
         <entry file="file:///media/DATOS/Oxfist/coding/IdeaProjects/progfun1/progfun/src/main/scala-2.11/week2/rationals.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="342">
+              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -76,8 +76,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="/media/DATOS/Oxfist/coding/IdeaProjects/progfun1/progfun/src/main/scala-2.11/week1/ExampleApp.scala" />
-        <option value="/media/DATOS/Oxfist/coding/IdeaProjects/progfun1/progfun/src/main/scala-2.11/week2/rationals.sc" />
         <option value="/media/DATOS/Oxfist/coding/IdeaProjects/progfun1/progfun/src/main/scala-2.11/week2/Rational.scala" />
+        <option value="/media/DATOS/Oxfist/coding/IdeaProjects/progfun1/progfun/src/main/scala-2.11/week2/rationals.sc" />
       </list>
     </option>
   </component>
@@ -529,18 +529,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///media/DATOS/Oxfist/coding/IdeaProjects/progfun1/progfun/src/main/scala-2.11/week2/rationals.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///media/DATOS/Oxfist/coding/IdeaProjects/progfun1/progfun/src/main/scala-2.11/week2/Rational.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="347">
           <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/DATOS/Oxfist/coding/IdeaProjects/progfun1/progfun/src/main/scala-2.11/week2/rationals.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
           <folding />
         </state>
       </provider>

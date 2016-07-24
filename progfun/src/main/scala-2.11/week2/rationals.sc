@@ -6,15 +6,14 @@ x.denom
 
 val y = new Rational(5, 7)
 
-x.+(y)
+x + y
 
 val z = new Rational(3, 2)
 
-x.-(y).-(z)
+x - y - z
 
-y.+(y)
+y + y
 
-x.less(y)
+x - y
 
 x.max(y)
-
