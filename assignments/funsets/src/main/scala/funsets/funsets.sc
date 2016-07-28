@@ -55,10 +55,9 @@ def toString(s: Set): String = {
   xs.mkString("{", ",", "}")
 }
 
-//def map2(s: Set, f: Int => Int): Set = exists(s, )
-val s2 = s1
-val f = { n: Int => n * n }
-singletonSet(f(1))
+def map2(s: Set, f: Int => Int): Set = { b => exists(s, { a => f(a) == b }) }
 
 println(toString(map(s1, { n => n * n })))
+println(toString(map2(s1, { n => n * n })))
+
 println(toString(map(s1, { n => n * n })))
